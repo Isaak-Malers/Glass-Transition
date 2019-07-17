@@ -1,6 +1,10 @@
 # Glass-Transition
 
-Glass Transition is my free open source plastic antweight combat robot.  I tried to keep the BOM under 100$, which makes it one of the more accessible robots for beginners.  My reccomended parts list is:
+Glass Transition is my free open source plastic antweight combat robot.  I tried to keep the BOM under 100$, which makes it one of the more accessible robots for beginners.
+
+![Glass Transition Photo](https://raw.githubusercontent.com/Isaak-Malers/Glass-Transition/master/ReadMe.jpg "Glass Transition Photo")
+
+# My reccomended parts list is:
 
 | PART | PRODUCT LINK |
 |------|--------------|
